@@ -16,5 +16,6 @@
         android:layout_height="wrap_content"
         android:text="click me"
         android:id="@+id/btn1"
+        android:background="@drawable/button1_bg"
         android:layout_marginTop="10dp"/>
 </LinearLayout>
